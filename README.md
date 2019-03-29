@@ -1,6 +1,6 @@
 # CSGO ReportBot Sirystes
 
-This is a simple reportbot made in JavaScript! just download and be happy banishing cheaters !!
+This is a simple reportbot! just download and be happy banishing cheaters!!
 
 # Joins with us on Discord
 
@@ -19,10 +19,10 @@ Only report bot!! [NOT COMMEND BOT]
 - Command to report : `node sirystesrbot.js <Account> <Amount> [MatchID]`
 
 # Screenshot
-![Screenshot](https://i.imgur.com/eB6cZqL.gif)
-(https://i.imgur.com/eB6cZqL.gif)
 
-(https://i.imgur.com/eB6cZqL.gif)
+## Console Log:
+
+![Console Screenshot](https://i.imgur.com/eB6cZqL.gif)
 
 # Requirements
 
