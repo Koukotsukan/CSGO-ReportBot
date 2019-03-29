@@ -19,9 +19,7 @@ Only report bot!! [NOT COMMEND BOT]
 - Command to report : `node sirystesrbot.js <Account> <Amount> [MatchID]`
 
 # Screenshot
-
-## Console Log:
-
+![Screenshot](https://i.imgur.com/eB6cZqL.gif)
 (https://i.imgur.com/eB6cZqL.gif)
 
 (https://i.imgur.com/eB6cZqL.gif)
