@@ -4,7 +4,7 @@ This is a simple reportbot made in JavaScript! just download and be happy banish
 
 # Joins with us on Discord
 
-- 
+- Join discord : https://discord.gg/AcCKXyw
 
 
 # Features of Sirystes
