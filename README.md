@@ -46,7 +46,7 @@ Open the text document `setup.txt` paste your accounts in the username:password 
 `node setup.js` and then your accounts will be set to sirystes-rbot (remembering that you must do setup every time you add a new accounts but you can do the process of adding manually if you just need to open `accounts.json`)
 
 
-#Account Manager
+# Account Manager
 
 Account manager helper to clean duplicate accounts and remove empty spaces and non existing accounts, it is also possible to know how many accounts are available and remove 1 or more at one time if you need ...
 
