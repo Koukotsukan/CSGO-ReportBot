@@ -14,7 +14,7 @@ Only report bot!! [NOT COMMEND BOT]
 
 ## Report Bot:
 
-- The `MatchID` is optional (however I recommend you use it for better reporting accuracy), or just leave it blank (` `` ``) if you do not want to use it
+- The `MatchID` is optional (however I recommend you use it for better reporting accuracy), or just leave it blank (` "" `) if you do not want to use it
 - Report cooldown is 12 hours per report
 - Command to report : `node sirystesrbot.js <Account> <Amount> [MatchID]`
 
