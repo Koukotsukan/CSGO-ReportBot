@@ -55,7 +55,5 @@ Account manager helper to clean duplicate accounts and remove empty spaces and n
 commands :
 
 ~ `--clean` - Will clean the `accounts.json` file by removing duplicate entries and removing entries with empty username/password.
-
 ~ `--accounts` - Will show the number of accounts available to report.
-
 ~ `--remove <usernames>` - This command will remove accounts from the list of accounts. You can remove multiple accounts at one time by placing user names separated by space.
