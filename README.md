@@ -31,11 +31,11 @@ Only report bot!! [NOT COMMEND BOT]
 
 # Installation
 
-1. Download this repository
+1. Download(on discord).
 2. Put it all in a folder(desktop recommended)
 3. Open a the folder go to `sirystes_config` and `config`
 4. Put your steam API key in the line 2 and save
-5. Open `setup.txt` put your accounts in `username: password` and save
+5. Open `setup.txt` put your accounts in `username:password` and save
 6. Open the command prompt of node.js run the following commands : `node setup.js`
 7. DONE!!!
 
