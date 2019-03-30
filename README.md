@@ -22,7 +22,7 @@ Only report bot!! [NOT COMMEND BOT]
 
 ## Console Log:
 
-![Console Screenshot](https://i.imgur.com/eB6cZqL.gif)
+![Console Screenshot](./eB6cZqL.gif)
 
 # Requirements
 
