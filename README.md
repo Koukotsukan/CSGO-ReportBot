@@ -43,7 +43,7 @@ Only report bot!! [NOT COMMEND BOT]
 # Account Setup
 
 Open the text document `setup.txt` paste your accounts in the username:password format, so you will run the command prompt node and run
-`node setup.js` and then your accounts will be set to sirystes-rbot (remembering that you must do setup every time you add a new accounts but you can do the process of adding manually if you just need to open `accounts.json`)
+`node setup.js` and then your accounts will be set to sirystes-rbot (remembering that you must do setup every time you add a new accounts but you can do the process of adding manually if you want, just need to open `accounts.json`)
 
 
 # Account Manager
