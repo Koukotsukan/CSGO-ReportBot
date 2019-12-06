@@ -1,4 +1,4 @@
-# ⚠️ WORKING ON A FIX, if you have any suggestions, let me know
+# ⚠️ Working on a fix, if you have any suggestions, let me know
 
 # CSGO ReportBot Sirystes
 
