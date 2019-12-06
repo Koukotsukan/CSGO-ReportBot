@@ -6,7 +6,7 @@ This is a simple reportbot! just download and be happy banishing cheaters!!
 
 # Joins with us on Discord for make the download!
 
-- Download on discord: https://discord.gg/AcCKXyw
+- Download on discord: https://discord.gg/X7DfSsm
 - Download on UnknownCheats: https://www.unknowncheats.me/forum/cs-go-releases/328796-csgo-reportbot-sirystes.html
 
 # Features of Sirystes
