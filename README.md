@@ -1,3 +1,5 @@
+# WORKING ON A FIX if you have any suggestions let me know
+
 # CSGO ReportBot Sirystes
 
 This is a simple reportbot! just download and be happy banishing cheaters!!
