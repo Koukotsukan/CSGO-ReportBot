@@ -1,0 +1,2 @@
+node dbmanager.js
+pause
