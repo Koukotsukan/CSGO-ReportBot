@@ -11,7 +11,7 @@ Reporting Cheats / Trolls / griefers
 
 - It is still possible to report by `MatchID` but you need always to specify the `ServerID` 
 - Report cooldown is 12 hours per report
-- There are no more commands, because this version use the same commendbot bypass just modified to report
+- There are no more commands, because this version use the same commendbot bypass(@beepfelix) just modified to report
 
 # Screenshot
 
