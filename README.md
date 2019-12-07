@@ -19,6 +19,9 @@ Reporting Cheats / Trolls / griefers
 
 ![Console Screenshot](./console.gif)
 
+# How to get the ServerID
+[CSGO ServerID](https://raw.githubusercontent.com/codsec/b1rd_ReportBot_CSGO/master/server%20id.png)
+
 # Requirements
 
 - [NodeJS](https://nodejs.org/)
@@ -34,7 +37,7 @@ Reporting Cheats / Trolls / griefers
 6. Open the `Start report` and wait for the response
 7. DONE!!!
 
-## OBS: for the report to work correctly you must report during the match,
+## OBS: for the report to work correctly you must report during the match, not after
 
 # Account Setup
 
