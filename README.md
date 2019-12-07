@@ -1,24 +1,17 @@
-# ⚠️ Working on a fix, if you have any suggestions, let me know
+# UPDATE FIX! 12/07/2019 ✔️
 
-# CSGO ReportBot Sirystes
+# CSGO ReportBot b1rd(old sirystes)
 
 This is a simple reportbot! just download and be happy banishing cheaters!!
 
-# Joins with us on Discord for make the download!
-
-- Download on discord: https://discord.gg/X7DfSsm
-- Download on UnknownCheats: https://www.unknowncheats.me/forum/cs-go-releases/328796-csgo-reportbot-sirystes.html
-
 # Features of Sirystes
-
-Only report bot!! [NOT COMMEND BOT]
-
+Reporting Cheats / Trolls / griefers
 
 ## Report Bot:
 
-- The `MatchID` is optional (however I recommend you use it for better reporting accuracy), or just leave it blank (` "" `) if you do not want to use it
+- It is still possible to report by `MatchID` but for better performance you need to specify the `ServerID` 
 - Report cooldown is 12 hours per report
-- Command to report : `node sirystesrbot.js <Account> <Amount> [MatchID]`
+- There are no more commands, you, because this version use the same commendbot bypass just modified to report
 
 # Screenshot
 
@@ -33,12 +26,12 @@ Only report bot!! [NOT COMMEND BOT]
 
 # Installation
 
-1. Download(on discord).
-2. Put it all in a folder(desktop recommended)
-3. Open a the folder go to `sirystes_config` and `config`
-4. Put your steam API key in the line 2 and save
-5. Open `setup.txt` put your accounts in `username:password` and save
-6. Open the command prompt of node.js run the following commands : `node setup.js`
+1. Download this git
+2. Put it all in a folder
+3. Open the folder and click `install.bat`
+4. Put your steam API key inside de `config.js` and save
+5. Open `Start DBmanager.bat` put your accounts in `db` and save
+6. Open the `Start report` run the following commands : `node setup.js`
 7. DONE!!!
 
 
