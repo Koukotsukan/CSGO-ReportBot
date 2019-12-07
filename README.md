@@ -26,7 +26,7 @@ Reporting Cheats / Trolls / griefers
 
 # Installation
 
-1. Download this git
+1. Download this
 2. Put it all in a folder
 3. Open the folder and click `install.bat` and `Updating Protocol Definitions`
 4. Put your Steam API key inside the `config.json` file and inside this file you should set the target's Steam Url Profile and ServerID too and save.
@@ -34,6 +34,7 @@ Reporting Cheats / Trolls / griefers
 6. Open the `Start report` and wait for the response
 7. DONE!!!
 
+## OBS: for the report to work correctly you must report during the match,
 
 # Account Setup
 
