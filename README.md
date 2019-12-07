@@ -4,7 +4,7 @@
 
 This is a simple reportbot! just download and be happy banishing cheaters!!
 
-# Features of Sirystes
+# Features
 Reporting Cheats / Trolls / griefers
 
 ## Report Bot:
