@@ -17,7 +17,7 @@ Reporting Cheats / Trolls / griefers
 
 ## Console Log:
 
-![Console Screenshot](./eB6cZqL.gif)
+![Console Screenshot](./console.gif)
 
 # Requirements
 
