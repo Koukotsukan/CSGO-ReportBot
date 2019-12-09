@@ -6,13 +6,14 @@ const VDF = require("./VDF.js");
 const Helper = require("./Helper.js");
 
 module.exports = class Account {
-	constructor(isTarget = false) {
+	constructor(isTarget = false, proxy = undefined, debug = false) {
 		this.steamUser = new SteamUser({
 			autoRelogin: false,
 			enablePicsCache: false,
-			picsCacheAll: false
+			picsCacheAll: false,
+			httpProxy: proxy
 		});
-		this.csgoUser = new GameCoordinator(this.steamUser);
+		this.csgoUser = new GameCoordinator(this.steamUser, debug);
 		this.loginTimeout = null;
 		this.isTarget = isTarget;
 	}
@@ -192,14 +193,12 @@ module.exports = class Account {
 				{
 					account_id: accountID,
 					match_id: matchID,
-					commendation: {
-						rpt_aimbot: rpt_aimbot ? 1 : 0,
-						rpt_wallhack: rpt_wallhack ? 1 : 0,
-						rpt_speedhack: rpt_speedhack ? 1 : 0,
-						rpt_teamharm: rpt_teamharm ? 1 : 0,
-						rpt_textabuse: rpt_textabuse ? 1 : 0,
-						rpt_voiceabuse: rpt_voiceabuse ? 1 : 0
-					}
+					rpt_aimbot: rpt_aimbot ? 1 : 0,
+					rpt_wallhack: rpt_wallhack ? 1 : 0,
+					rpt_speedhack: rpt_speedhack ? 1 : 0,
+					rpt_teamharm: rpt_teamharm ? 1 : 0,
+					rpt_textabuse: rpt_textabuse ? 1 : 0,
+					rpt_voiceabuse: rpt_voiceabuse ? 1 : 0
 				},
 				this.csgoUser.Protos.csgo.ECsgoGCMsg.k_EMsgGCCStrike15_v2_ClientReportResponse,
 				this.csgoUser.Protos.csgo.CMsgGCCStrike15_v2_ClientReportResponse,
